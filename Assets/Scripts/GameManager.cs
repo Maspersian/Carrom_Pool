@@ -32,6 +32,5 @@ public class GameManager : MonoBehaviour
             striker2.SetActive(true);
             striker1.SetActive(false);
         }
-
     }
 }
